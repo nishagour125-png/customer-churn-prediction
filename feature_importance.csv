@@ -1,0 +1,16 @@
+Feature,Importance
+num__MonthlyCharges,0.14550750213217534
+num__TotalCharges,0.1426630652767084
+num__tenure,0.12652799222889194
+num__SeniorCitizen,0.024725616952422987
+cat__PaymentMethod_Mailed check,0.020437239134219735
+cat__PaperlessBilling_No,0.019745849361472577
+cat__PaperlessBilling_Yes,0.019481741476052142
+cat__Contract_One year,0.01926833701203181
+cat__Partner_Yes,0.01863784227491102
+cat__PaymentMethod_Credit card,0.01834779258514228
+cat__Contract_Month-to-month,0.018332810661549858
+cat__Contract_Two year,0.018326109273727798
+cat__gender_Male,0.01819670333002642
+cat__Dependents_No,0.018080505464306132
+cat__Partner_No,0.01803529421811665
